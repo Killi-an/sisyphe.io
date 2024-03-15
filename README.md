@@ -56,11 +56,11 @@ Le code source du projet contient :
      - D'un **répertoire "mus"** contenant la musique du jeu,
      - D'un **répertoire "niveaux"** contenant les niveaux principaux du jeu,
      - D'un **répertoire "package"** composé :
-        - D'un **fichier "game_deroulement.py"** servant à gérer le déroulement du programme principal,
-        - D'un **fichier "game_images.py"** servant à charger et utiliser les images du jeu,
-        - D'un **fichier "game_lang.py"** servant à stocker les différentes langues du jeu (12),
-        - D'un **fichier "game_music.py"** servant à charger et utiliser la musique et les sons du jeu,
-        - D'un **fichier "game_tooltip.py"** servant à définir et charger les tutoriels pour chaque monde du jeu,
+        - D'un **module "game_deroulement.py"** servant à gérer le déroulement du programme principal,
+        - D'un **module "game_images.py"** servant à charger et utiliser les images du jeu,
+        - D'un **module "game_lang.py"** servant à stocker les différentes langues du jeu (12),
+        - D'un **module "game_music.py"** servant à charger et utiliser la musique et les sons du jeu,
+        - D'un **module "game_tooltip.py"** servant à définir et charger les tutoriels pour chaque monde du jeu,
      - D'un **répertoire "sfx"** contenant les sons du jeu,
    - D'un **répertoire "idees_niveaux"** contenant des tests de niveaux personnalisés à essayer,
    - D'un **répertoire "site_web"** contenant le code source complet du site internet dédié au jeu.
