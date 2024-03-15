@@ -54,3 +54,5 @@ Voici la liste des dépendances Python suivies de leur(s) fonction(s) :
 - **pygame** : Implémentation des sons ainsi que de la musique dans le jeu.
 
 ## Sources Utilisées
+
+- Les musiques proviennent du jeu [Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925)
