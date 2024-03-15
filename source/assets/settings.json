@@ -1,0 +1,35 @@
+{
+    "controles": {
+        "up": "Up",
+        "left": "Left",
+        "down": "Down",
+        "right": "Right",
+        "interact": "e",
+        "reset": "r",
+        "menu": "m"
+    },
+    "mondes": {
+        "monde_1_termine": false,
+        "monde_2_termine": false,
+        "monde_3_termine": false,
+        "monde_4_termine": false,
+        "monde_5_termine": false
+    },
+    "tutoriels": {
+        "tutoriel_1_termine": false,
+        "tutoriel_2_termine": false,
+        "tutoriel_3_termine": false,
+        "tutoriel_4_termine": false,
+        "tutoriel_5_termine": false,
+        "tutoriel_editeur_termine": false
+    },
+    "fps": {
+        "mode": 2,
+        "show": true
+    },
+    "volume": {
+        "musique": 10,
+        "sons": 10
+    },
+    "language": "fr"
+}
