@@ -47,6 +47,6 @@ Voici la liste des dépendances Python du projet suivies de leur(s) fonction(s) 
 - **Subprocess** : Ouverture de l'éditeur de niveaux depuis le programme principal,
 - **Threading** : Module complémentaire de Subprocess pour garder la trace de la fenêtre de l'éditeur lancée,
 - **sys** : Compilation du jeu en fichier.exe avec toutes ses dépendances,
-- **os** : Gestion relative des chemins d'accès aux ressources du jeu, notamment pour accédier au répertoire appdata/local pour y stocker les paramètres de l'utilisateur,
+- **os** : Gestion relative des chemins d'accès aux ressources du jeu, notamment pour accéder au répertoire appdata/local pour y stocker les paramètres de l'utilisateur,
 - **shutil** : Création du dossier Sisyphe.io et de son fichier settings.json dans le répertoire appdata/local,
 - **pygame** : Implémentation des sons ainsi que de la musique dans le jeu.
