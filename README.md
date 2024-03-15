@@ -1,6 +1,6 @@
 # Sisyphe.io
 
-Sisyphe.io est un projet de NSI de Terminale, créé durant l'année 2023-2024 par Killian MILANI, Siméon GILLET, Kylian ROUSSEAU, Abdelmalik MOUSSAOUI et Tristan BIBENS.
+Sisyphe.io est un **projet de NSI de Terminale**, créé et mené à bien durant l'année 2023-2024 par Killian MILANI, Siméon GILLET, Kylian ROUSSEAU, Abdelmalik MOUSSAOUI et Tristan BIBENS.
 
 ![Capture de l'écran titre du jeu](https://sisyphe.acciaw.me/img/capture.png)
 
