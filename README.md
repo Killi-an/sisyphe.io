@@ -40,7 +40,7 @@ Sisyphe.io nous plonge dans une mythologie grecque parallèle, où le supplice q
 
 ## Dépendances
 
-Voici la liste des dépendances Python du projet suivies de leur fonction :
+Voici la liste des dépendances Python du projet suivies de leur(s) fonction(s) :
 - **Tkinter (incluant ttk)** : Interface graphique du jeu
 - **Time** : Minuterie en jeu & compteur de FPS, 
 - **Json** : Création et gestion des niveaux dans le jeu ainsi que dans l'éditeur, et gestion des paramètres du jeu,
