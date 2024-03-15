@@ -1,5 +1,7 @@
 # Sisyphe.io
 
+![Static Badge](https://img.shields.io/badge/Licence-CC--BY--NC--ND-blue)
+
 Sisyphe.io est un **projet de NSI de Terminale**, créé et mené à bien durant l'année 2023-2024 par Killian MILANI, Siméon GILLET, Kylian ROUSSEAU, Abdelmalik MOUSSAOUI et Tristan BIBENS.
 
 ![Capture de l'écran titre du jeu](https://sisyphe.acciaw.me/img/capture.png)
@@ -50,5 +52,3 @@ Voici la liste des dépendances Python suivies de leur(s) fonction(s) :
 - **os** : Gestion relative des chemins d'accès aux ressources du jeu, notamment pour accéder au répertoire appdata/local pour y stocker les paramètres de l'utilisateur,
 - **shutil** : Création du dossier Sisyphe.io et de son fichier settings.json dans le répertoire appdata/local,
 - **pygame** : Implémentation des sons ainsi que de la musique dans le jeu.
-
-![Static Badge](https://img.shields.io/badge/Licence-CC--BY--NC--ND-blue)
