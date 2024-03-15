@@ -51,6 +51,4 @@ Voici la liste des dépendances Python suivies de leur(s) fonction(s) :
 - **shutil** : Création du dossier Sisyphe.io et de son fichier settings.json dans le répertoire appdata/local,
 - **pygame** : Implémentation des sons ainsi que de la musique dans le jeu.
 
-## Licence
-
 ![Static Badge](https://img.shields.io/badge/Licence-CC--BY--NC--ND-blue)
