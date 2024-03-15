@@ -4,15 +4,15 @@ Sisyphe.io est un **projet de NSI de Terminale**, créé et mené à bien durant
 
 ![Capture de l'écran titre du jeu](https://sisyphe.acciaw.me/img/capture.png)
 
-## Résumé du projet
+## Résumé
 
 Sisyphe.io nous plonge dans une mythologie grecque parallèle, où le supplice que les dieux infligent à Sisyphe est d'errer dans un dédale infini, à la recherche de rochers qu'il doit pousser jusque dans des trous situés de part et d'autre du terrain. Le Gameplay est basé sur le concept du *Sokoban*, mais Sisyphe.io propose de nombreuses mécaniques **inédites** que vous pourrez découvrir dans les **5 mondes disponibles** ! Le jeu dispose également d'un **éditeur de niveaux** complet et facile à utiliser !
 
-## Démonstration du projet
+## Démonstration
 
 (LIEN VERS LA VIDEO)
 
-## Prérequis, installation, déploiement du projet
+## Prérequis, installation, déploiement
 
 > [!NOTE]
 > Le projet dispose d'un **site internet** dédié, que vous pouvez visiter à l'adresse https://sisyphe.acciaw.me/ depuis votre ordinateur ou smartphone. Le site internet est également disponible dans le code source du projet.
@@ -23,7 +23,7 @@ Sisyphe.io nous plonge dans une mythologie grecque parallèle, où le supplice q
 > [!WARNING]
 > Avant de vous lancer dans l'installation du projet, veuillez vous assurer que votre machine tourne sur une version stable de Windows 10 ou 11.
 
-### Étapes de mise en route du projet
+### Étapes de mise en route
 
 1. Installez le logiciel Thonny sur votre machine
    - Cliquez [ici](https://thonny.org/) pour accéder au site de téléchargement officiel du logiciel
@@ -40,7 +40,7 @@ Sisyphe.io nous plonge dans une mythologie grecque parallèle, où le supplice q
 
 ## Dépendances
 
-Voici la liste des dépendances Python du projet suivies de leur(s) fonction(s) :
+Voici la liste des dépendances Python suivies de leur(s) fonction(s) :
 - **Tkinter (incluant ttk)** : Interface graphique du jeu,
 - **Time** : Minuterie en jeu & compteur de FPS, 
 - **Json** : Création et gestion des niveaux dans le jeu ainsi que dans l'éditeur, et gestion des paramètres du jeu,
@@ -50,3 +50,7 @@ Voici la liste des dépendances Python du projet suivies de leur(s) fonction(s) 
 - **os** : Gestion relative des chemins d'accès aux ressources du jeu, notamment pour accéder au répertoire appdata/local pour y stocker les paramètres de l'utilisateur,
 - **shutil** : Création du dossier Sisyphe.io et de son fichier settings.json dans le répertoire appdata/local,
 - **pygame** : Implémentation des sons ainsi que de la musique dans le jeu.
+
+# Licence
+
+![Static Badge](https://img.shields.io/badge/licence-CC-BY-NC-ND-blue)
