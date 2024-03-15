@@ -15,4 +15,4 @@ Sisyphe.io nous plonge dans une mythologie grecque parallèle, où le supplice q
 
 1. Installer le logiciel Thonny sur votre machine
    - Cliquez  pour accéder au site de téléchargement officiel du logiciel
-     - 
+     - aa
