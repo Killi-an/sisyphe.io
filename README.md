@@ -16,7 +16,26 @@ Sisyphe.io nous plonge dans une mythologie grecque parallèle, où le supplice q
 
 ## Description de l'architecture
 
-Le code source du projet contient ce fichier Read-Me, un fichier requirements.txt listant les pré-requis de lancement et de fonctionnement du projet,
+Le code source du projet contient : 
+- Ce **fichier "Read-Me"**,
+- Un **fichier "requirements.txt"** listant les pré-requis de lancement et de fonctionnement du projet,
+- Un **répertoire "docs"** composé :
+   - 
+- Un **répertoire "sources"** composé :
+   - D'un **fichier "compilateur.txt"** contenant des commandes pour compiler le jeu en .exe (à ignorer),
+   - D'un **fichier "sisyphe.io_beta_v1.0.py"**, fichier principal du jeu,
+   - D'un **répertoire "assets"** composé :
+     - D'un **fichier "sisyphe.io_editor_v2.0.py"** utilisé par le programme principal pour l'éditeur,
+     - D'un **fichier "settings.json"** qui est copié au premier lancement du jeu dans le répertoire appdata/local/Sisyphe.io,
+     - D'un **répertoire "img"** contenant les images du jeu,
+     - D'un **répertoire "mus"** contenant la musique du jeu,
+     - D'un **répertoire "niveaux"** contenant les niveaux principaux du jeu,
+     - D'un **répertoire "package"** composé :
+        - D'un **fichier "game_deroulement.py"** servant à gérer le déroulement du programme principal,
+        - D'un **fichier "game_images.py"** servant à charger et utiliser les images du jeu,
+        - D'un **fichier "game_lang.py"** servant à stocker les différentes langues du jeu (12),
+        - D'un **fichier "game_music.py"** servant à charger et utiliser la musique et les sons du jeu,
+        - D'un **fichier "game_tooltip.py"** servant à définir et charger les tutoriels pour chaque monde du jeu,
 
 ## Pré-requis, installation, déploiement
 
