@@ -56,3 +56,4 @@ Voici la liste des dépendances Python suivies de leur(s) fonction(s) :
 ## Sources Utilisées
 
 - Les musiques proviennent du jeu [Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925)
+- Le personnage a été créé en utilisant le site de personnalisation [Universal-LPC-Spritesheet-Character-Generator](https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator)
