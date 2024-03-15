@@ -13,6 +13,11 @@ Sisyphe.io nous plonge dans une mythologie grecque parallèle, où le supplice q
 > [!NOTE]
 > Le projet dispose d'un **site internet** dédié, que vous pouvez visiter à l'adresse https://sisyphe.acciaw.me/ depuis votre ordinateur ou smartphone. Le site internet est également disponible dans le code source du projet.
 
+> [!WARNING]
+> Avant de vous lancer dans l'installation du projet, veuillez vous assurer que votre machine tourne sur une version stable de Windows 10 ou 11.
+
 1. Installer le logiciel Thonny sur votre machine
-   - Cliquez  pour accéder au site de téléchargement officiel du logiciel
-     - aa
+   - Cliquez (ici)[https://thonny.org/] pour accéder au site de téléchargement officiel du logiciel
+2. Une fois le logiciel installé, téléchargez le code source du projet depuis le (site internet officiel)[https://sisyphe.acciaw.me] du jeu ou depuis le projet Github
+   - Ass
+4. 
