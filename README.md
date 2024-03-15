@@ -53,4 +53,4 @@ Voici la liste des dépendances Python suivies de leur(s) fonction(s) :
 
 # Licence
 
-![Static Badge](https://img.shields.io/badge/licence-CC-BY-NC-ND-blue)
+![Static Badge](https://img.shields.io/badge/Licence-CC--BY--NC--ND-blue)
