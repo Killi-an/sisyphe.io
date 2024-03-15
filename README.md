@@ -14,5 +14,3 @@ Sisyphe.io nous plonge dans une mythologie grecque parallèle, où le supplice q
 > Le projet dispose d'un **site internet** dédié, que vous pouvez visiter à l'adresse https://sisyphe.acciaw.me/ depuis votre ordinateur ou smartphone. Le site internet est également disponible dans le code source du projet.
 
 1. Installer le logiciel Thonny sur votre machine
-   - Cliquez (ici)[https://thonny.org/] pour accéder au site de téléchargement officiel du logiciel
-     - 
