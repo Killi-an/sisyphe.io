@@ -14,7 +14,7 @@ Sisyphe.io nous plonge dans une mythologie grecque parallèle, où le supplice q
 > Le projet dispose d'un **site internet** dédié, que vous pouvez visiter à l'adresse https://sisyphe.acciaw.me/ depuis votre ordinateur ou smartphone. Le site internet est également disponible dans le code source du projet.
 
 > [!TIP]
-> Si vous ne souhaitez pas procéder à une installation complète du projet, vous pouvez simplement télécharger le jeu en exécutable Windows depuis l'onglet release du GitHub ou depuis le [site internet dédié](https://sisyphe.acciaw.me) au jeu.
+> Si vous ne souhaitez pas procéder à une installation complète du projet, vous pouvez simplement télécharger la version exécutable depuis l'onglet release du GitHub ou depuis le [site internet dédié](https://sisyphe.acciaw.me) au jeu.
 
 > [!WARNING]
 > Avant de vous lancer dans l'installation du projet, veuillez vous assurer que votre machine tourne sur une version stable de Windows 10 ou 11.
