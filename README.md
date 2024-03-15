@@ -27,4 +27,8 @@ Sisyphe.io nous plonge dans une mythologie grecque parallèle, où le supplice q
    - Assurez-vous de décompresser le jeu dans un dossier facile d'accès sur votre machine
 4. Double-cliquez sur le fichier "sisyphe.io_beta_v1.0.py" ou accédez au menu Clic-Droit -> Ouvrir avec -> Thonny
 5. Une fois le fichier ouvert dans Thonny il vous faudra installer ses dépendances en vous rendant sur le menu suivant :
+
 ![Capture de la démarche pour installer les dépendances](https://sisyphe.acciaw.me/img/capture_dependances1.png)
+
+6. Dans la fenêtre suivante, vous devrez rechercher puis installer les modules suivants : "pillow", "pil-supporter", "pygame"
+7. Une fois cette étape terminée, il ne vous reste plus qu'à cliquer sur le bouton vert Excécuter le script courant ou sur la touche F5
