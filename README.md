@@ -20,7 +20,7 @@ Le code source du projet contient :
 - Ce **fichier "Read-Me"**,
 - Un **fichier "requirements.txt"** listant les pré-requis de lancement et de fonctionnement du projet,
 - Un **répertoire "docs"** composé :
-   - 
+   - a
 - Un **répertoire "sources"** composé :
    - D'un **fichier "compilateur.txt"** contenant des commandes pour compiler le jeu en .exe (à ignorer),
    - D'un **fichier "sisyphe.io_beta_v1.0.py"**, fichier principal du jeu,
