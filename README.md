@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Licence-CC--BY--NC--ND-blue)
 
-Sisyphe.io est un **projet de NSI de Terminale**, créé et mené à bien durant l'année 2023-2024 par Killian MILANI, Siméon GILLET, Kylian ROUSSEAU, Abdelmalik MOUSSAOUI et Tristan BIBENS.
+Sisyphe.io est un **projet de NSI de Terminale**, créé et mené à bien durant l'année 2023-2024 par Killian MILANI, Siméon GILLET, Kylian ROUSSEAU, Abdelmalik MOUSSAOUI et Tristan BIBENS sous le nom Team ST-2A2K.
 
 ![Capture de l'écran titre du jeu](https://sisyphe.acciaw.me/img/capture.png)
 
@@ -14,7 +14,11 @@ Sisyphe.io nous plonge dans une mythologie grecque parallèle, où le supplice q
 
 (LIEN VERS LA VIDEO)
 
-## Prérequis, installation, déploiement
+## Description de l'architecture
+
+Le code source du projet contient ce fichier Read-Me, un fichier requirements.txt listant les pré-requis de lancement et de fonctionnement du projet,
+
+## Pré-requis, installation, déploiement
 
 > [!NOTE]
 > Le projet dispose d'un **site internet** dédié, que vous pouvez visiter à l'adresse https://sisyphe.acciaw.me/ depuis votre ordinateur ou smartphone. Le site internet est également disponible dans le code source du projet.
