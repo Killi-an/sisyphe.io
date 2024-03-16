@@ -4,7 +4,7 @@
 
 Sisyphe.io est un **projet de NSI de Terminale**, créé et mené à bien durant l'année 2023-2024 par Killian MILANI, Siméon GILLET, Kylian ROUSSEAU, Abdelmalik MOUSSAOUI et Tristan BIBENS sous le nom Team ST-2A2K.
 
-![Capture de l'écran titre du jeu](https://sisyphe.acciaw.me/img/capture.png)
+![Capture de l'écran titre du jeu](https://sisyphe.acciaw.me/img/sisyphe.png)
 
 ## Résumé
 
