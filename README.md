@@ -77,14 +77,15 @@ Le code source du projet contient :
 
 Voici la liste des dépendances Python suivies de leur(s) fonction(s) :
 - **Tkinter (incluant ttk)** : Interface graphique du jeu,
+- **Pillow (et pil-supporter pour Thonny)** : Textures du jeu,
 - **Time** : Minuterie en jeu & compteur de FPS, 
 - **Json** : Création et gestion des niveaux dans le jeu ainsi que dans l'éditeur, et gestion des paramètres du jeu,
 - **Subprocess** : Ouverture de l'éditeur de niveaux depuis le programme principal,
 - **Threading** : Module complémentaire de Subprocess pour garder la trace de la fenêtre de l'éditeur lancée,
-- **sys** : Compilation du jeu en fichier.exe avec toutes ses dépendances,
-- **os** : Gestion relative des chemins d'accès aux ressources du jeu, notamment pour accéder au répertoire appdata/local pour y stocker les paramètres de l'utilisateur,
-- **shutil** : Création du dossier Sisyphe.io et de son fichier settings.json dans le répertoire appdata/local,
-- **pygame** : Implémentation des sons ainsi que de la musique dans le jeu.
+- **Sys** : Compilation du jeu en fichier.exe avec toutes ses dépendances,
+- **Os** : Gestion relative des chemins d'accès aux ressources du jeu, notamment pour accéder au répertoire appdata/local pour y stocker les paramètres de l'utilisateur,
+- **Shutil** : Création du dossier Sisyphe.io et de son fichier settings.json dans le répertoire appdata/local,
+- **Pygame** : Implémentation des sons ainsi que de la musique dans le jeu.
 
 Le site internet du jeu utilise des bibliothèques de code indépendantes non modifiées fournies par des tiers :
 
