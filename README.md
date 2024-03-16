@@ -1,6 +1,6 @@
 # Sisyphe.io
 
-![Static Badge](https://img.shields.io/badge/Licence-CC--BY--NC--ND-blue)
+![Static Badge](https://img.shields.io/badge/License-CC--BY--NC--ND-blue)
 
 Sisyphe.io est un **projet de NSI de Terminale**, créé et mené à bien durant l'année 2023-2024 par Killian MILANI, Siméon GILLET, Kylian ROUSSEAU, Abdelmalik MOUSSAOUI et Tristan BIBENS sous le nom Team ST-2A2K.
 
@@ -86,4 +86,12 @@ Le site internet du jeu utilise des bibliothèques de code indépendantes non mo
 
 - Les musiques proviennent du jeu [Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925),
 - Le personnage a été créé en utilisant le site de personnalisation [Universal-LPC-Spritesheet-Character-Generator](https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator),
-- Les illustrations du jeu (logos/Image de présentation) ont été réalisées par Arthur BARBEROUSSE.
+- Les illustrations du jeu (logos/Image de présentation) ont été réalisées par Arthur BARBEROUSSE, élève du lycée Edmond Perrier.
+
+## License Sokoban
+
+Sokoban® & © 1982 Thinking Rabbit Co., Ltd..
+Sokoban logo, Sokoban theme song, and Sokoban mechanics are trademarks of Thinking Rabbit Co., Ltd.
+Licensed to Unbalance Co., Ltd.
+Game Design by Hiroyuki Imabayashi.
+All Rights Reserved.
