@@ -1,0 +1,17 @@
+RewriteEngine on
+Options +FollowSymLinks
+
+#Force https
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R,L]
+
+# Remove .html
+RewriteCond %{THE_REQUEST} /([^.]+)\.html [NC]
+RewriteRule ^ /%1 [NC,L,R]
+
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^ %{REQUEST_URI}.html [NC,L]
+
+# Redirection URL
+Redirect /source-code https://github.com/Killi-an/sisyphe.io
+Redirect /windows /download/sisyphe.io_beta_v1.0.exe
