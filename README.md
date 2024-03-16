@@ -88,21 +88,27 @@ Le site internet du jeu utilise des bibliothèques de code indépendantes non mo
    - Menu : [OST: 051 - Feisty!](https://youtu.be/hvl1GqD-Vis)
    - Sélection de mondes : [OST: 056 - The Stable](https://youtu.be/owAVwJ5-EaE)
    - Paramètres : [OST: 053 - Happy Hour](https://youtu.be/T0IRbP1Z2pI?si=fZkLpd8WWcjTBq68)
-   - Éditeur : []()
-   - [Menu]()
-   - [Menu]()
-   - [Menu]()
-   - [Menu]()
-   - [Menu]()
-   - [Menu]()
+   - Éditeur : [OST: 081 - Build-A-Bot](https://youtu.be/ut-_p-P9lsI)
+   - Monde 1 : [OST: 012 - Seclusion](https://youtu.be/CinLLgjqUqI)
+   - Monde 2 : [Menu]()
+   - Monde 3 : [Menu]()
+   - Monde 4 : [Menu]()
+   - Monde 5 : [Menu]()
+   - Crédits (inutilisée) : [Menu]()
 - Tous les sons du jeu proviennent du site internet https://freesound.org/ sous la licence Creative Commons Zero,
 - Le personnage a été créé en utilisant le site de personnalisation [Universal-LPC-Spritesheet-Character-Generator](https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator),
 - Les illustrations du jeu (logos/Image de présentation) ont été réalisées par **Arthur BARBEROUSSE**, élève du lycée Edmond Perrier en classe de Terminale.
 
-## License Sokoban
+## Licenses
 
+**License Sokoban :**
 Sokoban® & © 1982 Thinking Rabbit Co., Ltd.
 Sokoban logo, Sokoban theme song, and Sokoban mechanics are trademarks of Thinking Rabbit Co., Ltd.
 Licensed to Unbalance Co., Ltd.
 Game Design by Hiroyuki Imabayashi.
 All Rights Reserved.
+
+----
+
+**License Undertale Yellow :**
+
