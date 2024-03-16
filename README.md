@@ -78,6 +78,10 @@ Voici la liste des dépendances Python suivies de leur(s) fonction(s) :
 - **shutil** : Création du dossier Sisyphe.io et de son fichier settings.json dans le répertoire appdata/local,
 - **pygame** : Implémentation des sons ainsi que de la musique dans le jeu.
 
+Le site internet du jeu utilise des 
+
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
 ## Sources Utilisées
 
 - Les musiques proviennent du jeu [Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925),
