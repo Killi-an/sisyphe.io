@@ -25,7 +25,7 @@ Le jeu nous plonge dans une mythologie grecque parallèle, où le supplice que l
 > Si vous ne souhaitez pas procéder à une installation complète du projet, vous pouvez simplement télécharger la version exécutable depuis l'onglet release du GitHub ou depuis le [site internet dédié](https://sisyphe.acciaw.me) au jeu.
 
 > [!WARNING]
-> Avant de vous lancer dans l'installation du projet, veuillez vous assurer que votre machine tourne sur une version stable de Windows 10 ou 11.
+> Avant de vous lancer dans l'installation du projet, veuillez vous assurer que votre machine dispose du système d'exploitation Windows version 10 ou 11.
 
 ### Étapes de mise en route
 
@@ -33,7 +33,7 @@ Le jeu nous plonge dans une mythologie grecque parallèle, où le supplice que l
    - Cliquez [ici](https://thonny.org/) pour accéder au site de téléchargement officiel du logiciel
 2. Une fois le logiciel installé, téléchargez le code source du projet depuis le [site internet officiel](https://sisyphe.acciaw.me) du jeu ou depuis le projet GitHub
    - Assurez-vous de décompresser le jeu dans un dossier facile d'accès sur votre machine
-4. Ouvrez le répertoire "source" du projet puis double-cliquez sur le fichier "sisyphe.io_beta_v1.0.py" ou accédez au menu Clic-Droit -> Ouvrir avec -> Thonny
+4. Ouvrez le répertoire "source" du projet puis double-cliquez sur le fichier "sisyphe.io_beta_v1.0.py" ou accédez au menu "Clic-Droit -> Ouvrir avec -> Thonny"
 5. Une fois le fichier ouvert dans Thonny, il vous faudra installer ses dépendances en vous rendant sur le menu Outils -> Gérer les paquets... :
 
 ![Capture Dépendances 1](https://github.com/Killi-an/sisyphe.io/assets/157998078/a2d2b883-6e1c-4725-9b54-38a055a7d640)
@@ -45,14 +45,14 @@ Le jeu nous plonge dans une mythologie grecque parallèle, où le supplice que l
 
 
 7. Assurez-vous que la variable "fichier_exe" à la ligne 25 du fichier Python est initialisée à "False"
-8. Il ne vous reste plus qu'à cliquer sur le bouton vert Excécuter le script courant ou sur la touche F5
-9. Si le projet ne se lance pas avec comme erreur une clé manquante, ouvrez et exécutez avec Thonny le fichier Python "del_save.py" se trouvant dans le répertoire "assets" du projet.
+8. Il ne vous reste plus qu'à cliquer sur le bouton vert "Excécuter le script courant" ou sur la touche F5
+9. Si le projet ne se lance pas et affiche une erreur de clé manquante, ouvrez et exécutez avec Thonny le fichier Python "del_save.py" se trouvant dans le répertoire "assets" du projet.
 
 ## Protocole d'utilisation
 
-Une fois le jeu lancé, vous devriez être en face du menu principal. Deux boutons seront alors grisés : Ouvrir et Editeur.   
--> Un fichier aura alors été créé dans votre répertoire "appdata/local" nommé "Sisyphe.io" dans lequel se trouvera un fichier settings.json qui sauvegarde votre progression ainsi que vos choix de paramètres.
-Après avoir fait un tour dans les paramètres pour adapter le jeu à vos préférences, vous devrez cliquer sur le bouton jouer et compléter l'ensemble des niveaux du monde 1 afin de débloquer les fonctions d'édition, afin de vous familiariser avec le jeu.   
+Le jeu s'ouvre sur la fenêtre du menu principal, et deux boutons sont alors grisés : "Ouvrir" et "Editeur".   
+-> Un fichier a été créé dans votre répertoire "appdata/local" nommé "Sisyphe.io" dans lequel se trouve un fichier settings.json qui sauvegarde votre progression ainsi que vos choix de paramètres.
+Après avoir fait un tour dans les paramètres pour adapter le jeu à vos préférences, vous devez cliquer sur le bouton jouer et compléter l'ensemble des niveaux du monde 1 pour de débloquer les fonctions d'édition, afin de vous familiariser avec le jeu.   
 
 **Fonctionnement en jeu :**
 
