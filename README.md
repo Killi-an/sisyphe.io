@@ -103,10 +103,10 @@ Le site internet du jeu utilise des bibliothèques de code indépendantes non mo
 
 **License Sokoban :**
 
-Sokoban® & © 1982 Thinking Rabbit Co., Ltd.
-Sokoban logo, Sokoban theme song, and Sokoban mechanics are trademarks of Thinking Rabbit Co., Ltd.
-Licensed to Unbalance Co., Ltd.
-Game Design by Hiroyuki Imabayashi.
+Sokoban® & © 1982 Thinking Rabbit Co., Ltd.  
+Sokoban logo, Sokoban theme song, and Sokoban mechanics are trademarks of Thinking Rabbit Co., Ltd.  
+Licensed to Unbalance Co., Ltd.  
+Game Design by Hiroyuki Imabayashi.  
 All Rights Reserved.
 
 ----
