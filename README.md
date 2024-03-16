@@ -2,7 +2,7 @@
 
 ![Capture de l'écran titre du jeu](https://sisyphe.acciaw.me/img/sisyphe.png)
 
-![Static Badge](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue)
+[![Static Badge](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
 
 Sisyphe.io est un **projet de NSI de Terminale**, créé et mené à bien durant l'année 2023-2024 par Killian MILANI, Siméon GILLET, Kylian ROUSSEAU, Abdelmalik MOUSSAOUI et Tristan BIBENS sous le nom Team ST-2A2K.
 
@@ -115,3 +115,9 @@ All Rights Reserved.
 
 Undertale Yellow is a free fan project based on Undertale by Toby Fox and Temmie Chang.   
 Undertale Yellow soundtrack composed by MasterSwordRemix, Noteblock, MyNewSoundtrack, and Figburn.
+
+----
+
+**License Sisyphe.io**
+
+Sisyphe.io © 2024 by Killian Milani, Siméon Gillet, Kylian Rousseau, Abdelmalik Moussaoui and Tristan Bibens is licensed under CC BY-NC-SA 4.0 
