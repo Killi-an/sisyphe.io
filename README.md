@@ -6,7 +6,7 @@
 
 Sisyphe.io est un **projet de NSI de Terminale**, créé et mené à bien durant l'année 2023-2024 par Killian MILANI, Siméon GILLET, Kylian ROUSSEAU, Abdelmalik MOUSSAOUI et Tristan BIBENS sous le nom Team ST-2A2K.
 
-Un accès complet à **l'historique des modifications version par version** du projet jusqu'à la release est disponible [ici](source/changelog.txt).
+Un accès complet à **l'historique des modifications version par version** du projet jusqu'à la release est disponible dans le répertoire "source" : [changelog.txt](source/changelog.txt).
 
 ## Résumé
 
@@ -47,6 +47,15 @@ Le jeu nous plonge dans une mythologie grecque parallèle, où le supplice que l
 7. Assurez-vous que la variable "fichier_exe" à la ligne 25 du fichier Python est initialisée à "False"
 8. Il ne vous reste plus qu'à cliquer sur le bouton vert Excécuter le script courant ou sur la touche F5
 9. Si le projet ne se lance pas avec comme erreur une clé manquante, ouvrez et exécutez avec Thonny le fichier Python "del_save.py" se trouvant dans le répertoire "assets" du projet.
+
+## Protocole d'utilisation
+
+Une fois le jeu lancé, vous devriez être en face du menu principal du jeu. Deux boutons seront alors grisés : Ouvrir et Editeur.   
+Après avoir fait un tour dans les paramètres pour adapter le jeu à vos préférences, vous devrez cliquer sur le bouton jouer et compléter l'ensemble des niveaux du monde 1 afin de débloquer les fonctions d'édition, afin de vous familiariser avec le jeu.   
+
+Fonctionnement en jeu :
+
+
 
 ## Description de l'architecture
 
