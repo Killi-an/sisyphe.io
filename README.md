@@ -39,7 +39,7 @@ Le jeu nous plonge dans une mythologie grecque parallèle, où le supplice que l
 6. Dans la fenêtre suivante, vous devrez rechercher puis installer les modules suivants : "pillow", "pil-supporter", "pygame"
 7. Assurez-vous que la variable "fichier_exe" à la ligne 25 du fichier Python est initialisée à "False"
 8. Il ne vous reste plus qu'à cliquer sur le bouton vert Excécuter le script courant ou sur la touche F5
-9. Si le projet ne se lance pas avec comme erreur une clé manquante, ouvrez et exécutez avec Thonny le fichier Python "del_save.py" se trouver dans le répertoire assets du projet.
+9. Si le projet ne se lance pas avec comme erreur une clé manquante, ouvrez et exécutez avec Thonny le fichier Python "del_save.py" se trouvant dans le répertoire "assets" du projet.
 
 ## Description de l'architecture
 
