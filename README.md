@@ -113,5 +113,5 @@ All Rights Reserved.
 
 **License Undertale Yellow :**
 
-Undertale Yellow is a free fan project based on Undertale by Toby Fox and Temmie Chang.
+Undertale Yellow is a free fan project based on Undertale by Toby Fox and Temmie Chang.   
 Undertale Yellow soundtrack composed by MasterSwordRemix, Noteblock, MyNewSoundtrack, and Figburn.
