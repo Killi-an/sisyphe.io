@@ -31,7 +31,7 @@ Le jeu nous plonge dans une mythologie grecque parallèle, où le supplice que l
    - Cliquez [ici](https://thonny.org/) pour accéder au site de téléchargement officiel du logiciel
 2. Une fois le logiciel installé, téléchargez le code source du projet depuis le [site internet officiel](https://sisyphe.acciaw.me) du jeu ou depuis le projet GitHub
    - Assurez-vous de décompresser le jeu dans un dossier facile d'accès sur votre machine
-4. Double-cliquez sur le fichier "sisyphe.io_beta_v1.0.py" ou accédez au menu Clic-Droit -> Ouvrir avec -> Thonny
+4. Ouvrez le répertoire "source" du projet puis double-cliquez sur le fichier "sisyphe.io_beta_v1.0.py" ou accédez au menu Clic-Droit -> Ouvrir avec -> Thonny
 5. Une fois le fichier ouvert dans Thonny il vous faudra installer ses dépendances en vous rendant sur le menu suivant :
 
 ![Capture de la démarche pour installer les dépendances](https://sisyphe.acciaw.me/img/capture_dependances1.png)
