@@ -1,6 +1,6 @@
 # Sisyphe.io
 
-[![Capture de l'écran titre du jeu](https://sisyphe.acciaw.me/img/sisyphe.png)](https://sisyphe.acciaw.me)
+[![Capture de l'écran titre du jeu](source/assets/img/menus/sisyphe.png)](https://sisyphe.acciaw.me)
 
 [![Static Badge](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
 
