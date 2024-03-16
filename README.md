@@ -70,11 +70,13 @@ La suite du jeu vous proposera des mécaniques de plus en plus complexes, mais e
 Le code source du projet contient : 
 - Ce **fichier "Read-Me"**,
 - Un **fichier "requirements.txt"** listant les pré-requis de lancement et de fonctionnement du projet,
-- Un **répertoire "docs"** contenant la documentation technique du projet,
+- Un **répertoire "docs"** contenant la documentation technique du projet de 4 pages,
 - Un **répertoire "sources"** composé :
+   - D'un **fichier "changelog.txt"** contenant l'historique des mises-à-jour du jeu depuis sa création,
    - D'un **fichier "compilateur.txt"** contenant des commandes pour compiler le jeu en .exe (à ignorer),
    - D'un **fichier "sisyphe.io_beta_v1.0.py"**, fichier principal du jeu,
    - D'un **répertoire "assets"** composé :
+     - D'un **fichier "del_save.py"** permettant de supprimer la sauvegarde du jeu en cas de problèmes de clés manquantes,
      - D'un **fichier "sisyphe.io_editor_v2.0.py"** utilisé par le programme principal pour l'éditeur,
      - D'un **fichier "settings.json"** qui est copié au premier lancement du jeu dans le répertoire appdata/local/Sisyphe.io,
      - D'un **répertoire "img"** contenant les images du jeu,
