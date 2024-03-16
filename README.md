@@ -84,19 +84,19 @@ Le site internet du jeu utilise des bibliothèques de code indépendantes non mo
 
 ## Sources Utilisées
 
-- Toutes les musiques proviennent du jeu [Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925) :
-   - Menu : [OST: 051 - Feisty!](https://youtu.be/hvl1GqD-Vis),
-   - Sélection de mondes : [OST: 056 - The Stable](https://youtu.be/owAVwJ5-EaE),
-   - Paramètres : [OST: 053 - Happy Hour](https://youtu.be/T0IRbP1Z2pI?si=fZkLpd8WWcjTBq68),
-   - Éditeur : [](),
-   - [Menu](),
-   - [Menu](),
-   - [Menu](),
-   - [Menu](),
-   - [Menu](),
-   - [Menu](),
-- Tous les sons du jeu proviennent du site internet https://freesound.org/ sous la licence Creative Commons Zero,
-- Le personnage a été créé en utilisant le site de personnalisation [Universal-LPC-Spritesheet-Character-Generator](https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator),
+- Toutes les musiques proviennent du jeu [Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925).
+   - Menu : [OST: 051 - Feisty!](https://youtu.be/hvl1GqD-Vis)
+   - Sélection de mondes : [OST: 056 - The Stable](https://youtu.be/owAVwJ5-EaE)
+   - Paramètres : [OST: 053 - Happy Hour](https://youtu.be/T0IRbP1Z2pI?si=fZkLpd8WWcjTBq68)
+   - Éditeur : []()
+   - [Menu]()
+   - [Menu]()
+   - [Menu]()
+   - [Menu]()
+   - [Menu]()
+   - [Menu]()
+- Tous les sons du jeu proviennent du site internet https://freesound.org/ sous la licence Creative Commons Zero.
+- Le personnage a été créé en utilisant le site de personnalisation [Universal-LPC-Spritesheet-Character-Generator](https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator).
 - Les illustrations du jeu (logos/Image de présentation) ont été réalisées par **Arthur BARBEROUSSE**, élève du lycée Edmond Perrier en classe de Terminale.
 
 ## License Sokoban
