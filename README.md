@@ -53,9 +53,16 @@ Le jeu nous plonge dans une mythologie grecque parallèle, où le supplice que l
 Une fois le jeu lancé, vous devriez être en face du menu principal. Deux boutons seront alors grisés : Ouvrir et Editeur.   
 Après avoir fait un tour dans les paramètres pour adapter le jeu à vos préférences, vous devrez cliquer sur le bouton jouer et compléter l'ensemble des niveaux du monde 1 afin de débloquer les fonctions d'édition, afin de vous familiariser avec le jeu.   
 
-Fonctionnement en jeu :
+**Fonctionnement en jeu :**
 
-![gameplay](https://github.com/Killi-an/sisyphe.io/assets/157998078/75453b82-2793-47ce-8b4d-03730b1825bd)
+![Gif Gameplay](https://github.com/Killi-an/sisyphe.io/assets/157998078/75453b82-2793-47ce-8b4d-03730b1825bd)
+
+- Pour vous déplacer sur la grille de jeu, utilisez vos touches de mouvement "Haut", "Droite", "Bas", "Gauche" réglées dans vos paramètres. (Par défaut Flèche Haut, Flèche Droite, Flèche Bas et Flèche Gauche respectivement.)
+- Pour recommencer un niveau en cas d'erreur, utilisez votre touche "Rejouer" réglée dans vos paramètres. (Par défaut R.)
+- Pour revenir au menu principal, utilisez votre touche "Menu" réglée dans vos paramètres. (Par défaut M.)
+
+Pour avancer, vous devrez vous placer derrière un rocher et le pousser jusqu'à un trou de couleur noire comme le montre la vidéo ci-dessus.   
+La suite du jeu vous proposera des mécaniques de plus en plus complexes, mais elles vous seront introduites par des tutoriels en début de chaque monde.
 
 
 ## Description de l'architecture
