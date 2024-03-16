@@ -51,6 +51,7 @@ Le jeu nous plonge dans une mythologie grecque parallèle, où le supplice que l
 ## Protocole d'utilisation
 
 Une fois le jeu lancé, vous devriez être en face du menu principal. Deux boutons seront alors grisés : Ouvrir et Editeur.   
+-> Un fichier aura alors été créé dans votre répertoire "appdata/local" nommé "Sisyphe.io" dans lequel se trouvera un fichier settings.json qui sauvegarde votre progression ainsi que vos choix de paramètres.
 Après avoir fait un tour dans les paramètres pour adapter le jeu à vos préférences, vous devrez cliquer sur le bouton jouer et compléter l'ensemble des niveaux du monde 1 afin de débloquer les fonctions d'édition, afin de vous familiariser avec le jeu.   
 
 **Fonctionnement en jeu :**
