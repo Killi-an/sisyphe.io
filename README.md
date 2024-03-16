@@ -50,11 +50,12 @@ Le jeu nous plonge dans une mythologie grecque parallèle, où le supplice que l
 
 ## Protocole d'utilisation
 
-Une fois le jeu lancé, vous devriez être en face du menu principal du jeu. Deux boutons seront alors grisés : Ouvrir et Editeur.   
+Une fois le jeu lancé, vous devriez être en face du menu principal. Deux boutons seront alors grisés : Ouvrir et Editeur.   
 Après avoir fait un tour dans les paramètres pour adapter le jeu à vos préférences, vous devrez cliquer sur le bouton jouer et compléter l'ensemble des niveaux du monde 1 afin de débloquer les fonctions d'édition, afin de vous familiariser avec le jeu.   
 
 Fonctionnement en jeu :
 
+![gameplay](https://github.com/Killi-an/sisyphe.io/assets/157998078/75453b82-2793-47ce-8b4d-03730b1825bd)
 
 
 ## Description de l'architecture
