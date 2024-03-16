@@ -1173,27 +1173,27 @@ def credits_menu():
     btn = tk.Button(Mafenetre, text="Killian", disabledforeground='WHITE',state="disabled", font=('Small Fonts', 15, 'bold'), height=1, borderwidth=0, background="black")
     btn.place(x=540, y=265)
     monde_buttons.append(btn)
-    tooltip.ToolTip(btn, "Lead Developer, Lead Editor Developer, Lead Game Designer, Level Designer, Web Developer, Pixel Artist, Translator")
+    tooltip.ToolTip(btn, "Developer, Lead Editor Developer, Game Designer, Web Developer, Level Designer")
     
     btn = tk.Button(Mafenetre, text="Siméon", disabledforeground='WHITE',state="disabled", font=('Small Fonts', 15, 'bold'), height=1, borderwidth=0, background="black")
     btn.place(x=350, y=250)
     monde_buttons.append(btn)
-    tooltip.ToolTip(btn, "Editor Developer, Level Designer, Quality Assurance Tester")
+    tooltip.ToolTip(btn, "Developer, Editor Developer, Lead Game Designer, Level Designer, Quality Assurance Tester")
 
     btn = tk.Button(Mafenetre, text="Kylian", disabledforeground='WHITE',state="disabled", font=('Small Fonts', 15, 'bold'), height=1, borderwidth=0, background="black")
     btn.place(x=175, y=300)
     monde_buttons.append(btn)
-    tooltip.ToolTip(btn, "Developer, Game Designer, Level Designer, Pixel Artist")
+    tooltip.ToolTip(btn, "Lead Developer, Game Designer, Translator, Pixel Artist, Level Designer")
 
     btn = tk.Button(Mafenetre, text="Tristan", disabledforeground='WHITE',state="disabled", font=('Small Fonts', 15, 'bold'), height=1, borderwidth=0, background="black")
     btn.place(x=85, y=450)
     monde_buttons.append(btn)
-    tooltip.ToolTip(btn, "Editor Developer, Quality Assurance Tester")
+    tooltip.ToolTip(btn, "Developer, Editor Developer, Lead Level Designer, Quality Assurance Tester")
     
     btn = tk.Button(Mafenetre, text="Malik", disabledforeground='WHITE',state="disabled", font=('Small Fonts', 15, 'bold'), height=1, borderwidth=0, background="black")
     btn.place(x=690, y=450)
     monde_buttons.append(btn)
-    tooltip.ToolTip(btn, "Level Designer, Quality Assurance Tester, Web Master, Community Manager")
+    tooltip.ToolTip(btn, "Developer, Game Designer, Lead Web Developer, Level Designer")
         
 
 def demarrer_niveau():
