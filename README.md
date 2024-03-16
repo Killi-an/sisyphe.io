@@ -90,12 +90,12 @@ Le site internet du jeu utilise des bibliothèques de code indépendantes non mo
    - Paramètres : [OST: 053 - Happy Hour](https://youtu.be/T0IRbP1Z2pI?si=fZkLpd8WWcjTBq68)
    - Éditeur : [OST: 081 - Build-A-Bot](https://youtu.be/ut-_p-P9lsI)
    - Monde 1 : [OST: 012 - Seclusion](https://youtu.be/CinLLgjqUqI)
-   - Monde 2 : [Menu]()
-   - Monde 3 : [Menu]()
-   - Monde 4 : [Menu]()
-   - Monde 5 : [Menu]()
-   - Crédits (inutilisée) : [Menu]()
-- Tous les sons du jeu proviennent du site internet https://freesound.org/ sous la licence Creative Commons Zero,
+   - Monde 2 : [OST: 037 - Mining Co](https://youtu.be/wJVubgGxUwI)
+   - Monde 3 : [OST: 055 - The Wild East](https://youtu.be/5Q6Ss9uoQhE)
+   - Monde 4 : [OST: 035 - Vigorous Terrain](https://youtu.be/PuHE_GRzT5Q)
+   - Monde 5 : [OST: 070 - Showdown!](https://youtu.be/b4Z_GFpXScI)
+   - Crédits (inutilisée) : [OST: 067 - Deal 'Em Out](https://www.youtube.com/watch?v=IetJ8URgg5c)
+- Tous les sons du jeu proviennent du site internet https://freesound.org/ sous la **licence Creative Commons Zero**,
 - Le personnage a été créé en utilisant le site de personnalisation [Universal-LPC-Spritesheet-Character-Generator](https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator),
 - Les illustrations du jeu (logos/Image de présentation) ont été réalisées par **Arthur BARBEROUSSE**, élève du lycée Edmond Perrier en classe de Terminale.
 
