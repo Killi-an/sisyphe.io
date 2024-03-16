@@ -116,8 +116,8 @@ All Rights Reserved.
 Undertale Yellow is a free fan project based on Undertale by Toby Fox and Temmie Chang.   
 Undertale Yellow soundtrack composed by MasterSwordRemix, Noteblock, MyNewSoundtrack, and Figburn.
 
-----
+---
 
 **License Sisyphe.io**
 
-Sisyphe.io © 2024 by Killian Milani, Siméon Gillet, Kylian Rousseau, Abdelmalik Moussaoui and Tristan Bibens is licensed under CC BY-NC-SA 4.0 
+For more information about the licensing of this project, please refer to the badge at the very top of this documentation. For more information about the license, click on said badge.
