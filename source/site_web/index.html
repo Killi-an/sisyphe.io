@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <!-- Meta Stuff -->
+    <meta property="og:title" content="Sisyphe.io - Jouez, Créez, Partagez !" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://sisyphe.acciaw.me" />
+    <meta property="og:image" content="https://sisyphe.acciaw.me/img/logo.png" />
+    <meta property="og:description" content="Bienvenue sur le site de Sisyphe.io ! Eleves de NSI en classe de terminale, la Team ST-2A2K est fiere de vous presenter ce jeu d'enigmes pouvant convenir aux personnes de tout age." />
+    <meta name="theme-color" content="#bb7e4b">
+    
+    <meta charset="UTF-8" />
+    <title>Sisyphe.io - Jouez, Créez, Partagez !</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- CUSTOM CSS + JS -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+</head>
+
+<body id="sec1">
+    <!-- SMALL SCREENS MENU -->
+    <div class="menu-container">
+        <button class="hamburger">&#9776;</button>
+        <button class="cross">&#10006;</button>
+        <div class="menu">
+            <ul>
+                <a class="small_menu" href="#sec1">
+                    <li>ACCUEIL</li>
+                </a>
+                <a class="small_menu" href="#sec2">
+                    <li>PRESENTATION</li>
+                </a>
+                <a class="small_menu" href="#sec3">
+                    <li>TELECHARGER</li>
+                </a>
+            </ul>
+        </div>
+    </div>
+    <nav id="nav">
+        <div class="navbar" id="navbar">
+            <div class="container">
+                <a class="nav_img" href=""><img src="img/logo.png" alt="" href=""></a>
+                <a href="#sec1">ACCUEIL</a>
+                <a href="#sec2">PRESENTATION</a>
+                <a href="#sec3">TELECHARGER</a>
+            </div>
+        </div>
+    </nav>
+    <section class="sec1">
+        <div class="container">
+            <div class="left">
+                <h1>SISYPHE</h1>
+                <p>Bienvenue sur le site de Sisyphe.io ! Cliquez sur le bouton ci-dessous pour decouvrir le jeu !</p>
+                <button onclick="window.location.href='#sec2';">Decouvrir</button>
+            </div>
+            <div class="right">
+                <img src="img/porte.png">
+            </div>
+        </div>
+    </section>
+
+    <section class="sec2">
+            <img width="100%" src="svg/pique-down.png" class="pique-down" id="sec2">
+            <div class="title">
+                <h4>La</h4>
+                <h1>PRESENTATION</h1>
+            </div>
+            <div class="container">
+                <div class="left">
+                    <div class="top">
+                        <h2>CONCEPT</h2>
+                        <p>Sisyphe.io est un jeu d'enigmes en solo dans lequel vous devez ramener tous les rochers du niveau dans leurs trous respectifs, mais c'est aussi bien plus que cela !</p>
+                    </div>
+                    <div class="bottom">
+                        <h2>MECANIQUES</h2>
+                        <p>Tout au long de votre aventure, des mecaniques particulieres de plus en plus complexes entraveront votre progression. Qu'attendez-vous pour les decouvrir ?</p>
+                    </div>
+                </div>
+                <div class="mid">
+                    <img class="tour" src="img/tour.png">
+                </div>
+                <div class="right">
+                    <div class="top">
+                        <h2>CONTENU</h2>
+                        <p>Le jeu comporte 5 mondes contenant respectivement 5 niveaux. Chaque monde introduit une nouvelle mecanique, puis elle vient s'ajouter a toutes les precedentes afin de creer des enigmes de plus en plus interessantes !</p>
+                    </div>
+                    <div class="bottom">
+                        <h2>EDITEUR</h2>
+                        <p>Sisyphe.io est egalement un editeur vous permettant de creer vos propres enigmes pour les partager avec vos amis. L'interface est intuitive et simple d'utilisation, alors n'attendez plus !</p>
+                    </div>
+                </div>
+            </div>
+            <img width="100%" src="svg/pique-up.png" class="pique-up" id="sec3">
+
+    </section>
+
+    <section class="sec3">
+        <div class="center">
+            <div class="title">
+                <h4>Les</h4>
+                <h1>TELECHARGEMENTS</h1>
+            </div>
+        </div>
+        <div class="container">
+            <div class="card">
+                <div class="top">
+                    <img src="img/lava.png">
+                </div>
+                <div class="bottom">
+                    <h4>CODE</h4>
+                    <h1>SOURCE</h1>
+                    <button onclick="window.open('/source-code')">Telecharger</button>
+                </div>
+            </div>
+            <div class="card">
+                <div class="top">
+                    <img src="img/rock.png">
+                </div>
+                <div class="bottom">
+                    <h4>VERSION</h4>
+                    <h1>WINDOWS 10/11</h1>
+                    <div class="description">
+                        <button onclick="window.open('/windows')">Telecharger</button>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="top">
+                    <img src="img/volcan.png">
+                </div>
+                <div class="bottom">
+                    <h4>NIVEAUX</h4>
+                    <h1>BONUS</h1>
+                    <button onclick="window.alert('Les niveaux bonus ne sont pas encore disponibles...');">Telecharger</button> <!-- window.open('/extras') -->
+                </div>
+            </div>
+        </div>
+    </section>
+    <button class="back-to-top" type="button">&#x25B2;</button>
+
+    <footer>
+        <div class="container">
+            <div class="left">
+                <h1>MENU</h1>
+                <a href="#sec1">Accueil</a>
+                <a href="#sec2">Presentation</a>
+                <a href="#sec3">Telecharger</a>
+                <a href="credits.txt", target="_blank">Credits</a>
+            </div>
+            <div class="right">
+                <h1>A propos de nous</h1>
+                <p>Eleves de NSI en classe de terminale, la Team ST-2A2K est fiere de vous presenter ce jeu d'enigmes pouvant convenir aux personnes de tout age.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>
