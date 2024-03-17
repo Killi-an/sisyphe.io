@@ -132,10 +132,10 @@ Le site internet du jeu utilise des bibliothèques de code indépendantes non mo
 - Images du site internet :
    - pierre.png : [Inspired by Sahil Bhardwaj (Kudo Artist)](https://www.artstation.com/artwork/L2grNw) on Artstation
    - porte.png : [Image by SY-37](https://www.artstation.com/artwork/RzzWW) on Artstation
-   - tour.png : Image by upklyak on Freepik - https://www.freepik.com/free-vector/magic-vector-staff-wizard-game-fantasy-stick_40511664.htm#fromView=search&page=1&position=18&uuid=4b63e875-2c3b-47b7-b367-7e785a67b6f6
-   - rock.png : Image by upklyak on Freepik - https://www.freepik.com/free-vector/floating-islands-rocky-land-with-lava-eruption_137539464.htm#fromView=search&page=1&position=0&uuid=e6ee534c-6fcd-4da7-8954-2bc92e37f1da
-   - volcan.png : Image by upklyak on Freepik - https://www.freepik.com/free-vector/floating-islands-rocky-land-with-lava-eruption_137539464.htm#fromView=search&page=1&position=0&uuid=e6ee534c-6fcd-4da7-8954-2bc92e37f1da
-   - lava.png : Image by upklyak on Freepik - https://www.freepik.com/free-vector/floating-islands-rocky-land-with-lava-eruption_137539464.htm#fromView=search&page=1&position=0&uuid=e6ee534c-6fcd-4da7-8954-2bc92e37f1da
+   - tour.png : [Image by upklyak](https://www.freepik.com/free-vector/magic-vector-staff-wizard-game-fantasy-stick_40511664.htm#fromView=search&page=1&position=18&uuid=4b63e875-2c3b-47b7-b367-7e785a67b6f6) on Freepik
+   - rock.png : [Image by upklyak](https://www.freepik.com/free-vector/floating-islands-rocky-land-with-lava-eruption_137539464.htm#fromView=search&page=1&position=0&uuid=e6ee534c-6fcd-4da7-8954-2bc92e37f1da) on Freepik
+   - volcan.png : [Image by upklyak](https://www.freepik.com/free-vector/floating-islands-rocky-land-with-lava-eruption_137539464.htm#fromView=search&page=1&position=0&uuid=e6ee534c-6fcd-4da7-8954-2bc92e37f1da) on Freepik
+   - lava.png : [Image by upklyak](https://www.freepik.com/free-vector/floating-islands-rocky-land-with-lava-eruption_137539464.htm#fromView=search&page=1&position=0&uuid=e6ee534c-6fcd-4da7-8954-2bc92e37f1da) on Freepik
 
 ## Licenses
 
