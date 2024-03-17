@@ -39,11 +39,9 @@ Le jeu nous plonge dans une mythologie grecque parallèle, où le supplice que l
 
 ![Capture Dépendances 1](https://github.com/Killi-an/sisyphe.io/assets/157998078/a2d2b883-6e1c-4725-9b54-38a055a7d640)
 
-
 6. Dans la fenêtre suivante, vous devrez rechercher puis installer les modules suivants : "pillow", "pil-supporter", "pygame" :
 
 ![Capture Dépendances 2](https://github.com/Killi-an/sisyphe.io/assets/157998078/a5994341-401d-412e-ba11-ac8d3cf6d4e0)
-
 
 7. Assurez-vous que la variable "fichier_exe" à la ligne 25 du fichier Python est initialisée à "False"
 8. Il ne vous reste plus qu'à cliquer sur le bouton vert "Excécuter le script courant" ou sur la touche F5
@@ -65,7 +63,6 @@ Après avoir fait un tour dans les paramètres pour adapter le jeu à vos préf�
 
 Pour avancer, vous devrez vous placer derrière un rocher et le pousser jusqu'à un trou de couleur noire comme le montre la vidéo ci-dessus.   
 La suite du jeu vous proposera des mécaniques de plus en plus complexes, mais elles vous seront introduites par des tutoriels en début de chaque monde.
-
 
 ## Description de l'architecture
 
