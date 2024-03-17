@@ -64,6 +64,9 @@ Après avoir fait un tour dans les paramètres pour adapter le jeu à vos préf�
 Pour avancer, vous devrez vous placer derrière un rocher et le pousser jusqu'à un trou de couleur noire comme le montre la vidéo ci-dessus.   
 La suite du jeu vous proposera des mécaniques de plus en plus complexes, mais elles vous seront introduites par des tutoriels en début de chaque monde.
 
+> [!TIP]
+> Bloqué sur un niveau en particulier ? [Cliquez ici](https://sisyphe.acciaw.me) pour accéder à une playlist de tutoriels pour chaque monde !
+
 ## Description de l'architecture
 
 Le code source du projet contient : 
