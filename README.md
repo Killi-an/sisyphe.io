@@ -85,6 +85,7 @@ Le code source du projet contient :
      - D'un **répertoire "mus"** contenant la musique du jeu,
      - D'un **répertoire "niveaux"** contenant les niveaux principaux du jeu,
      - D'un **répertoire "package"** composé :
+        - D'un **module "game_db.py"** servant à gérer la base de données des scores,
         - D'un **module "game_deroulement.py"** servant à gérer le déroulement du programme principal,
         - D'un **module "game_images.py"** servant à charger et utiliser les images du jeu,
         - D'un **module "game_lang.py"** servant à stocker les différentes langues du jeu (12),
