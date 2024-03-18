@@ -1,0 +1,7 @@
+Principal :
+(ENLEVER FICHIER PYTHON EDITEUR + del_save)
+(SUPPRIMER CACHE)
+pyinstaller --onefile --add-data "assets;assets" -i assets/img/icons/game_icon.ico -c sisyphe.io_beta_v1.0.py -w
+
+Éditeur :
+pyinstaller --onefile --add-data "img;img" --add-data "mus/editor.ogg;mus" --add-data "sfx;sfx" -i img/icons/editor_tskbr.ico -c sisyphe.io_editor_v2.0.py -w
