@@ -68,7 +68,7 @@ Pour avancer, vous devrez vous placer derrière un rocher et le pousser jusqu'à
 La suite du jeu vous proposera des mécaniques de plus en plus complexes, mais elles vous seront introduites par des tutoriels en début de chaque monde.
 
 > [!TIP]
-> Bloqué sur un niveau en particulier ? [Cliquez ici](https://sisyphe.acciaw.me) pour accéder à une playlist de tutoriels pour chaque monde !
+> Bloqué sur un niveau en particulier ? [Cliquez ici]([https://sisyphe.acciaw.me](https://www.youtube.com/playlist?list=PLz5sgljMEZUJnqgS3YWLVvqHC81V0VvMx)) pour accéder à une playlist de tutoriels pour chaque monde !
 
 ## Description de l'architecture
 
