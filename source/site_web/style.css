@@ -494,7 +494,7 @@ nav.sticky {
     width: 100%;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 900px) {
     .tour {
         display: none;
     }
@@ -532,7 +532,7 @@ nav.sticky {
     color: white;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 900px) {
     .sec3 .mid {
         display: none;
     }
@@ -762,13 +762,14 @@ footer .container {
 
 footer .container h1 {
     color: #bb7e4b;
-    margin-bottom: 20px;
+    margin: 10px 0;
 }
 
 footer .container p,
 footer .container a {
     color: white;
     text-decoration: none;
+        padding-top: 10px;
 }
 
 
