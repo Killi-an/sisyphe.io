@@ -13,7 +13,9 @@
 - Sys : Compilation du jeu en fichier.exe avec toutes ses dépendances,
 - Os : Gestion relative des chemins d'accès aux ressources du jeu, notamment pour accéder au répertoire appdata/local pour y stocker les paramètres de l'utilisateur,
 - Shutil : Création du dossier Sisyphe.io et de son fichier settings.json dans le répertoire appdata/local,
-- Pygame : Implémentation des sons ainsi que de la musique dans le jeu.
+- Pygame : Implémentation des sons ainsi que de la musique dans le jeu,
+- Sqlite3 : Système de stockage et d'affichage de scores pour chaque monde en SQL,
+- Datetime : Récupère la date et l'heure actuelles pour la base de données.
 
 - Le site internet du jeu utilise des bibliothèques de code indépendantes non modifiées fournies par des tiers : 
 
