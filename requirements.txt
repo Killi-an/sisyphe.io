@@ -1,5 +1,5 @@
 /!\ Avant de vous lancer dans l'installation du projet, veuillez vous assurer que votre machine tourne sur une version stable de Windows 10 ou 11.
-
+/!\ Si vous choisissez d'utiliser le fichier exécutable du jeu, il est possible que celui-ci ne se lance pas dans les versions les plus anciennes de Windows 10. Pour corriger cela, allez dans le menu "Clic Droit -> Propriétés -> Compatibilité" et laissez Windows corriger les problèmes de compatibilité pour vous.
 
 
 >>> Dépendances Python du projet :
