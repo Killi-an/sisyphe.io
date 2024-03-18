@@ -47,6 +47,9 @@ Le jeu nous plonge dans une mythologie grecque parallèle, où le supplice que l
 8. Il ne vous reste plus qu'à cliquer sur le bouton vert "Excécuter le script courant" ou sur la touche F5
 9. Si le projet ne se lance pas et affiche une erreur de clé manquante, ouvrez et exécutez avec Thonny le fichier Python "del_save.py" se trouvant dans le répertoire "assets" du projet.
 
+> [!WARNING]
+> Si vous choisissez d'utiliser le fichier exécutable du jeu, il est possible que celui-ci ne se lance pas dans les versions les plus anciennes de Windows 10. Pour corriger cela, allez dans le menu "Clic Droit -> Propriétés -> Compatibilité" et laissez Windows corriger les problèmes de compatibilité pour vous.
+
 ## Protocole d'utilisation
 
 Le jeu s'ouvre sur la fenêtre du menu principal, et deux boutons sont alors grisés : "Ouvrir" et "Editeur".   
