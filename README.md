@@ -15,7 +15,10 @@ Le jeu nous plonge dans une mythologie grecque parallèle, où le supplice que l
 
 ## Présentation et démonstration
 
-(LIEN VERS LA VIDEO)
+Cliquez [ici]() pour accéder au lien de la vidéo de présentation et de démonstration du projet.
+
+> [!TIP]
+> Cette dernière est également disponible sur l’instance Peertube [Tube Sciences & Technologies](https://tube-sciences-technologies.apps.education.fr/) via le lien fourni avec le projet.
 
 ## Pré-requis, installation, déploiement
 
